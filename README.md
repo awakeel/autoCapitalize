@@ -1,4 +1,19 @@
 # autoCapitalize
-Jquery plugin to auto capitalize textarea, input text. kepress, capitalize all after full stop and space. pragraph.
 
-test
+
+---Jquery plugin ----
+
+I had search quite extensivily to auto capitalize paragraph eg. capitalize first letter of first word and than first letter after full stop and space.
+
+So I decided to write my own plugin.
+
+How to use it.
+
+1. Include Autocapitalize.js in your html file.
+2. its only work with keypress when writing in textarea or input field such textbox.
+3. $("selector").autoCapitalize();
+4. 
+
+
+
+You can change the keypress and keydown by changing the event in plugin file.
