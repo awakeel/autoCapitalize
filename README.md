@@ -3,9 +3,8 @@
 
 ---Jquery plugin ----
 
-I had search quite extensivily to auto capitalize paragraph eg. capitalize first letter of first word and than first letter after full stop and space.
-
-So I decided to write my own plugin.
+Capitalize first letter of first word and than first letter after full stop and space.
+ 
 
 How to use it.
 
